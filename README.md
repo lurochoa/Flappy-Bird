@@ -1,1 +1,2 @@
-Flappy Bird es un conocido juego para móviles de 2013 desarrollado por Nguyen Hà Đông y publicado por .GEARS Studios. 
+# Flappy Bird
+Flappy Bird Es Un Conocido juego para Móviles de 2013 Desarrollado por Nguyen Hà Đông y Publicado por .GEARS Studios.
